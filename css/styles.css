@@ -1,0 +1,39 @@
+/************************tag style**********************/
+a { color: #585858;}
+
+body{ 
+background-color: #ffffff; padding: 20px;
+}
+
+h1{ 
+    color: #10455b;
+    font-size: 60px;
+}
+
+h3{
+    color: #10455b;
+    font-size: 30px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ffaf20;
+    border-width: 7px;
+    width: 10%;
+}
+ol,p,strong,td{
+    color: #585858;
+}
+
+thead{
+     color: #10455b;     
+}
+
+/************************class style**********************/
+.skills{
+    color: #585858;
+}
+.bold {
+    color: #10455b;
+}
